@@ -6,3 +6,4 @@ router.post('/', createProfile);
 router.get('/user', GetProfile);
 
 module.exports = router;
+ 
